@@ -1,5 +1,4 @@
-# Mixture-of-Agents Demo Powered by Groq
-
+# Mixture-of-Agents Demo Powered by Groq  (https://www.youtube.com/watch?v=R6F3T3Bykqg)
 This Streamlit application showcases the Mixture of Agents (MOA) architecture proposed by Together AI, powered by Groq LLMs. It allows users to interact with a configurable multi-agent system for enhanced AI-driven conversations.
 
 ![MOA Architecture](./static/moa_groq.svg)
